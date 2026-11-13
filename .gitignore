@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet
+packages/
+*.nupkg
+
+# App data (XML files created by the app at runtime)
+data/
+
+# Logs and temp
+*.log
+*.tmp
+~$*
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Rider / VS Code
+.idea/
+.vscode/
